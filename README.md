@@ -17,7 +17,7 @@ A simple To-Do List web application built with **HTML, CSS, and JavaScript**. Th
 ## How to Use
 1. Clone the repository or download the files.
    ```sh
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/ShivamAttri842/Todo-Web-App.git
    ```
 2. Open `index.html` in a browser.
 3. Type a task in the input field and click the **Add Task** button.
